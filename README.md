@@ -1,11 +1,11 @@
 ## 👋 Hi there, I'm Andrés!
 
-### 🧠 Data Science & Mathematics | AI | Neuroscience | Quantum Computing  
+### 🧠 Data Science & Mathematics   
 
-I'm an undergraduate **Data Science and Mathematics** student with a strong passion for **AI, neuroscience, quantum computing, and understanding the fundamental nature of reality**.  
+I'm an undergraduate **Data Science and Mathematics** student at **Tecnológico de Monterrey**, with a strong passion for **AI, neuroscience, quantum computing, and understanding the fundamental nature of reality**.  
 
 ### 🚀 Currently Working On  
-🔭 **Brainwave** – A project integrating **AI, neuroscience, and more** to enhance healthcare and well-being.  
+🔭 **BrainWave** – A wearable device integrating AI, neuroscience, and wellness tracking for healthcare and well-being.  
 
 ### 🔬 Interests  
 - 🧠 **Understanding the Brain** – Exploring cognition, consciousness, and intelligence.  
@@ -15,10 +15,16 @@ I'm an undergraduate **Data Science and Mathematics** student with a strong pass
 - 🔬 **Physics & Politics** – Analyzing the forces that govern both nature and society.  
 
 ### 🛠 Tech Stack  
-- **Programming:** Python 🐍  
-- **Tools & Libraries:** (You can add any specific ones, like TensorFlow, PyTorch, NumPy, etc.)  
+- **Programming Languages:** Python, C++, R, MATLAB  
+- **Libraries:** Pandas, NumPy, Matplotlib, Plotly, Seaborn  
+- **Developer Tools:** VS Code, Visual Studio, Google Colab, Canva  
+- **Languages:** Spanish (Native), English (C1), German (A1.2)   
 
 ### 💡 Goals & Vision  
 I strive to develop **cutting-edge tools** that empower people to **achieve their ultimate goals**. My philosophy is to **push boundaries, embrace challenges, and reject mediocrity**.  
 
 > **"No place for mediocrity."**  
+
+<!--
+**andresmtz1821/andresmtz1821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
